@@ -1,5 +1,5 @@
-# CRYPIX — AN INTELLIGENT CHATBOT
-This project is still currently under development, but anyone is free to play around with V1.
+# CRYPIX — COVID19 CHATBOT
+This project is still currently under development, but anyone is free to play around with v1.
 
 Thanks to the developers/creators of the following modules:
 
